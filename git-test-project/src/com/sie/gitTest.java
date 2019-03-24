@@ -7,9 +7,12 @@ public class gitTest {
        System.out.println("hello,git");
        System.out.println("hello,git");
        System.out.println("hello,git");
+       //hello注释
    }
 
    public void test(){
-       System.out.println("haha");
+       int i = 0;
+       i+=10;
+       System.out.println("haha:"+i);
    }
 }
