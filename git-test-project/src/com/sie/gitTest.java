@@ -12,7 +12,7 @@ public class gitTest {
 
    public void test(){
        int i = 0;
-       i+=10;
-       System.out.println("haha:="+i);
+
+       System.out.println("haha:="+i+i);
    }
 }
